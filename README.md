@@ -10,7 +10,7 @@ tree.DecisionTreeClassifier
 
 #Results
 
-Male - KNeighborsClassifier
-Female - MLPClassifier 
-Male - RandomForestClassifier
-Male - tree.DecisionTreeClassifier
+Male - KNeighborsClassifier;
+Female - MLPClassifier;
+Male - RandomForestClassifier;
+Male - tree.DecisionTreeClassifier;
